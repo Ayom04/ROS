@@ -8,7 +8,7 @@
   <version>0.0.0</version>
   <description>Custom ROS 2 action package</description>
 
-  <maintainer email="230407019@live.unilag.edu.ng">saba</maintainer>
+  <maintainer email="230407019@live.unilag.edu.ng">hadizah</maintainer>
   <license>Apache-2.0</license>
 
   <!-- Build tool -->
