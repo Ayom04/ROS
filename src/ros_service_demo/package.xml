@@ -4,7 +4,7 @@
   <name>ros_service_demo</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="ayomide@todo.todo">ayomide</maintainer>
+  <maintainer email="smabi@todo.todo">smabi</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
