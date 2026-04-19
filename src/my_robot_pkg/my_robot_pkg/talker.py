@@ -12,7 +12,7 @@ class TalkerNode(Node):
 
     def publish_info(self):
         msg = String()
-        msg.data = "Muslimah Sulaiman, Group 3, Matric:  240407502"
+        msg.data = "Muslimah  Sulaimon, Group 3, Matric:  240407502"
         self.publisher.publish(msg)
         self.get_logger().info(f'Publishing: {msg.data}')
 
