@@ -4,7 +4,7 @@
   <name>my_robot_pkg</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="ayomide@todo.todo">ayomide</maintainer>
+  <maintainer email="bytewise@todo.todo">bytewise</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
