@@ -4,7 +4,7 @@
   <name>my_robot_action_pkg</name>
   <version>0.0.0</version>
   <description>Custom ROS 2 action package</description>
-  <maintainer email="230407018@live.unilag.edu.ng">saba</maintainer>
+  <maintainer email="230407038@live.unilag.edu.ng">Aisha</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

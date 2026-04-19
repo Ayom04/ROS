@@ -13,8 +13,8 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='bytewise',
-    maintainer_email='bytewise@todo.todo',
+    maintainer='Aisha Awofeso',
+    maintainer_email='230407038@live.unilag.edu.ng',
     description='TODO: Package description',
     license='TODO: License declaration',
     extras_require={
